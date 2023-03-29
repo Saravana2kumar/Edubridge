@@ -7,7 +7,7 @@ System.out.println("Method Defination");
 System.out.println("end of displayMessage method");
 }
 
-public static void main(String[] ar)
+public static void main(String[] arg)
 {
 System.out.println("Start of  main program");
 displayMessage();//calling method
